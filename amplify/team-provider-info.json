@@ -13,7 +13,17 @@
     },
     "categories": {
       "auth": {
-        "cds6812680b": {}
+        "cds6812680b": {},
+        "userPoolGroups": {}
+      },
+      "function": {
+        "AdminQueriesd10b19a9": {
+          "deploymentBucketName": "amplify-cds-prod-113506-deployment",
+          "s3Key": "amplify-builds/AdminQueriesd10b19a9-484134534a436c37412f-build.zip"
+        }
+      },
+      "api": {
+        "AdminQueries": {}
       }
     }
   },

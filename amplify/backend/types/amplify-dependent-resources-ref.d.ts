@@ -14,5 +14,20 @@ export type AmplifyDependentResourcesAttributes = {
             "writerGroupRole": "string",
             "readerGroupRole": "string"
         }
+    },
+    "function": {
+        "AdminQueriesd10b19a9": {
+            "Name": "string",
+            "Arn": "string",
+            "Region": "string",
+            "LambdaExecutionRole": "string"
+        }
+    },
+    "api": {
+        "AdminQueries": {
+            "RootUrl": "string",
+            "ApiName": "string",
+            "ApiId": "string"
+        }
     }
 }
