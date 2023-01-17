@@ -43,6 +43,16 @@
       "auth": {
         "cds6812680b": {},
         "userPoolGroups": {}
+      },
+      "function": {
+        "AdminQueriesd10b19a9": {
+          "deploymentBucketName": "amplify-cds-dev-115111-deployment",
+          "s3Key": "amplify-builds/AdminQueriesd10b19a9-484134534a436c37412f-build.zip"
+        },
+        "cds6812680b": {}
+      },
+      "api": {
+        "AdminQueries": {}
       }
     }
   }
