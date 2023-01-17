@@ -1,43 +1,15 @@
 {
-  "dev": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-cds-dev-145129-authRole",
-      "UnauthRoleArn": "arn:aws:iam::561789658853:role/amplify-cds-dev-145129-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::561789658853:role/amplify-cds-dev-145129-authRole",
-      "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-cds-dev-145129-deployment",
-      "UnauthRoleName": "amplify-cds-dev-145129-unauthRole",
-      "StackName": "amplify-cds-dev-145129",
-      "StackId": "arn:aws:cloudformation:us-east-1:561789658853:stack/amplify-cds-dev-145129/68ef9ac0-8357-11ed-9668-0a7e60f3489d",
-      "AmplifyAppId": "d2de6mwi9s1fa7"
-    },
-    "categories": {
-      "auth": {
-        "cds851ade32": {},
-        "userPoolGroups": {}
-      },
-      "function": {
-        "AdminQueries353ba71e": {
-          "deploymentBucketName": "amplify-cds-dev-145129-deployment",
-          "s3Key": "amplify-builds/AdminQueries353ba71e-527549367768744c4236-build.zip"
-        },
-        "AdminQueries7b638e60": {
-          "deploymentBucketName": "amplify-cds-dev-145129-deployment",
-          "s3Key": "amplify-builds/AdminQueries7b638e60-474875755a4c646e5639-build.zip"
-        }
-      }
-    }
-  },
   "prod": {
-    "awscloudformation": {},
-    "categories": {
-      "auth": {
-        "cds851ade32": {}
-      },
-      "function": {
-        "AdminQueries353ba71e": {},
-        "AdminQueries7b638e60": {}
-      }
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cds-prod-113506-authRole",
+      "UnauthRoleArn": "arn:aws:iam::534732747354:role/amplify-cds-prod-113506-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::534732747354:role/amplify-cds-prod-113506-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-cds-prod-113506-deployment",
+      "UnauthRoleName": "amplify-cds-prod-113506-unauthRole",
+      "StackName": "amplify-cds-prod-113506",
+      "StackId": "arn:aws:cloudformation:eu-west-2:534732747354:stack/amplify-cds-prod-113506/f2e4ab80-9617-11ed-ad0d-067bdc3bedc8",
+      "AmplifyAppId": "d3e54ii99xzlw1"
     }
   }
 }
