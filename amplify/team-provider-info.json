@@ -10,6 +10,11 @@
       "StackName": "amplify-cds-prod-113506",
       "StackId": "arn:aws:cloudformation:eu-west-2:534732747354:stack/amplify-cds-prod-113506/f2e4ab80-9617-11ed-ad0d-067bdc3bedc8",
       "AmplifyAppId": "d3e54ii99xzlw1"
+    },
+    "categories": {
+      "auth": {
+        "cds6812680b": {}
+      }
     }
   }
 }
